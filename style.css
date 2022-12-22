@@ -98,3 +98,57 @@
     height: 200px;
     width: 200px;
 }
+
+.middle2{
+    margin-top: 40px;
+    padding: 50px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.middle2 .quote{
+    font-size: 36px;
+    font-weight: lighter;
+    color: grey;
+}
+
+.middle2 .name{
+    font-size: 24px;
+    font-weight: bold;
+    color: #1F2937
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+}
+.bottom .attention{
+    border-radius: 4%;
+    margin-top: 30px;
+    padding: 10px;
+    display: flex;
+    height: 70px;
+    width: 350px;
+    background-color: #3882f6;
+    margin-bottom: 0px;
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+    justify-content: space-between;
+    
+}
+
+.bottom .attention .signup2{
+    align-self: center;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+}
+
+.bruh{
+    align-self: center;
+}
